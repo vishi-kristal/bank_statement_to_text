@@ -5,5 +5,3 @@ Pillow
 python-dotenv
 pytesseract
 openpyxl
-tesseract-ocr
-tesseract-ocr-por
